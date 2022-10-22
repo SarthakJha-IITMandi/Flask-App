@@ -2,6 +2,7 @@
 
 Will try building a new flask app
 
-# Personal instructions for ubuntu
+#### Personal instructions for mysql on ubuntu
 
-    Mysql will run using : sudo mysql -u root -p
+Use following to run mysql database:
+sudo mysql -u root -p
